@@ -1,4 +1,4 @@
-# Binary Surveillance Prototype: Schematic
+# Binary Surveillance Prototype: Schematics
 
 These programs generate the data for reproducing Figures 2, S1, S2, S4, and S5 in the referenced article.
 
