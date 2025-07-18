@@ -1,6 +1,6 @@
 # Binary Surveillance Prototype Figures
 
-These programs generate the data for reproducing Figures 2, S1, S2, S3, S4, S5, S6, S7, and S8 in the referenced article.
+These programs and scripts generate the data for reproducing Figures 2, S1, S2, S3, S4, S5, S6, S7, and S8 in the referenced article.
 
 # License and Copyright
 
